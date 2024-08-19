@@ -25,6 +25,7 @@ public class hm8Application {
         admin.setLogin("admin");
         admin.setPassword("admin");
 
+
         User user = new User();
         user.setLogin("user");
         user.setPassword("user");
